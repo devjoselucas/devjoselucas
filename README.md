@@ -4,7 +4,7 @@
     JOSÉ LUCAS
   </h1>
   <h3>
-    Electrical Engineer
+    Electrical Engineer | Full Stack Developer Web
   </h3>
   <h3>
     Skill Seeker
@@ -49,3 +49,11 @@ Take a look at my progress :)
 	<a href="https://www.instagram.com/1zelucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jose.holanda@ee.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+<p align="center">
+  Profile Visits:
+  <br/>
+  <img src="https://profile-counter.glitch.me/devjoselucas/count.svg">
+</p>
