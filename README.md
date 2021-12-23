@@ -54,6 +54,6 @@ Take a look at my progress :)
 
 <p align="center">
   Profile Visits:
-  <br/>
+  <br>
   <img src="https://profile-counter.glitch.me/devjoselucas/count.svg">
 </p>
