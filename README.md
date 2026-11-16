@@ -4,7 +4,7 @@
     JOSÉ LUCAS
   </h1>
   <h3>
-    Electrical Engineer | Full Stack Web Developer
+    Electrical & Quality Assurance Engineer
   </h3>
   <h3>
     Skill Seeker
